@@ -1,0 +1,69 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1763372440610,
+      "tag": "0000_elite_eternals",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1771521450819,
+      "tag": "0001_futuristic_red_hulk",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1771641473198,
+      "tag": "0002_messy_madame_masque",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1771668211167,
+      "tag": "0003_parched_pepper_potts",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1771669010024,
+      "tag": "0004_left_deathstrike",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1771683927760,
+      "tag": "0005_messy_dormammu",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1771831768335,
+      "tag": "0006_soft_lifeguard",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "5",
+      "when": 1771832691904,
+      "tag": "0007_dusty_sentry",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "5",
+      "when": 1771904940590,
+      "tag": "0008_sour_pepper_potts",
+      "breakpoints": true
+    }
+  ]
+}
